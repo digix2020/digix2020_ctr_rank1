@@ -1,0 +1,2 @@
+# digix2020_ctr_rank1
+华为digix算法大赛2020机器学习赛道-ctr预估初赛/决赛rank1
