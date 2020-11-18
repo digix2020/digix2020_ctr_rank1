@@ -11,6 +11,8 @@
 
 南京之旅圆满结束，首冠到手，感谢队友！
 
+补：初赛搜索相关性开源[链接](https://github.com/digix2020/digix2020_search_rank1)
+
 ## 项目环境
 
 Python 3.8
