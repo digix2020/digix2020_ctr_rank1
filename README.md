@@ -41,6 +41,6 @@ networkx
 
 运行nounique.py进行部分特征模型的训练和推理，决赛B榜分数811
 
-运行fusion.py得到三个模型结果的融合，决赛B榜分数814
+运行result/fusion.py得到三个模型结果的融合，决赛B榜分数814
 
 result文件夹中可得到最终结果文件submission_f.csv
