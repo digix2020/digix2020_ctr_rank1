@@ -7,7 +7,7 @@
 
 排名：初赛A榜rank1/B榜rank1，决赛A榜rank2/B榜rank1
 
-项目的blog分享[敬请期待](https://blog.csdn.net/weixin_40174982/article/details/108880726)
+项目的blog分享[链接](https://blog.csdn.net/weixin_40174982/article/details/109802534)
 
 南京之旅圆满结束，首冠到手，感谢队友！
 
